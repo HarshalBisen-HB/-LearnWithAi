@@ -1,6 +1,6 @@
-# LearnMate 🚀 – AI-Powered Career Accelerator
+# LearnWithAi 🚀 – AI-Powered Career Accelerator
 
-**LearnMate** is a cutting-edge career development platform that leverages a "swarm" of AI Agents to provide personalized coaching, resume analysis, and mock interview simulations. Built with **Next.js 15** and **Gemini 2.0 Flash**, it transforms the career journey through intelligent automation.
+**LearnWithAi** is a cutting-edge career development platform that leverages a "swarm" of AI Agents to provide personalized coaching, resume analysis, and mock interview simulations. Built with **Next.js 15** and **Gemini 2.0 Flash**, it transforms the career journey through intelligent automation.
 
 ---
 
@@ -39,7 +39,7 @@
 ## 🛠️ Technical Architecture
 
 ### 1. **Agentic AI Orchestration**
-LearnMate uses a multi-agent system built on the **@inngest/agent-kit**. Each feature is powered by a specialized AI agent:
+LearnWithAi uses a multi-agent system built on the **@inngest/agent-kit**. Each feature is powered by a specialized AI agent:
 - **Career Q&A Agent**: Provides real-time industry insights.
 - **Resume Analyzer**: Uses structured JSON output to score and critique resumes.
 - **Roadmap Generator**: Calculates logical learning paths with branching logic.
@@ -63,7 +63,7 @@ To ensure a smooth user experience, long-running AI tasks are handled via **Inng
 
 ## 📱 Mobile Experience (Android App)
 
-In addition to the web platform, we have developed a **LearnMate Android App** to provide career guidance on the go.
+In addition to the web platform, we have developed a **LearnWithAi Android App** to provide career guidance on the go.
 - **Cross-Platform Sync**: Seamlessly sync your interview history and roadmaps between web and mobile.
 - **Native Performance**: Optimized for mobile-first interactions, including voice-to-text for mock interviews.
 - **Push Notifications**: Stay updated on your roadmap progress and upcoming interview sessions.
@@ -106,7 +106,7 @@ In addition to the web platform, we have developed a **LearnMate Android App** t
 ---
 
 ## 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests to help make LearnMate even better.
+Contributions are welcome! Feel free to open issues or submit pull requests to help make LearnWithAi even better.
 
 ## 📄 License
 Distributed under the MIT License.

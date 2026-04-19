@@ -16,7 +16,7 @@ function WelcomeBanner() {
           We're excited to have you here
         </h2>
         <p className="text-lg mb-4 opacity-90">
-          Unlock your potential with intelligent career guidance. From resume analysis to interview prep, LearnMate transforms your career journey.
+          Unlock your potential with intelligent career guidance. From resume analysis to interview prep, LearnWithAi transforms your career journey.
         </p>
 
         {/* Quote */}
