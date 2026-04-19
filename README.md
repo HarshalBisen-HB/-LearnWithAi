@@ -105,11 +105,3 @@ In addition to the web platform, we have developed a **LearnWithAi Android App**
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests to help make LearnWithAi even better.
-
-## 📄 License
-Distributed under the MIT License.
-
----
-*Made with ❤️ by [Your Name](https://github.com/Sidhant-singh)*
