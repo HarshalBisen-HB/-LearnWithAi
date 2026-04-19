@@ -7,7 +7,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](/ss/Screenshot%202026-04-19%20155957.png)
+![Landing Page](public/ss/Screenshot%2026-04-19%154834.png)
 *Next-Generation AI Career Accelerator*
 
 ### 📊 Dashboard
