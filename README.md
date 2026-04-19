@@ -34,8 +34,6 @@
 ![Feedback](public/ss/Screenshot%202026-04-19%20155718.png)
 *Direct User Feedback Channel*
 
-
-
 ---
 
 ## 🛠️ Technical Architecture
