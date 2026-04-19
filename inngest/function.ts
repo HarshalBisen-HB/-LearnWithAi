@@ -308,7 +308,7 @@ Guidelines:
 Remember: Return ONLY the JSON object, no other text or formatting.`;
 
       const result = await generateText({
-        model: google("gemini-2.0-flash-exp"),
+        model: google("gemini-2.0-flash"),
         system: systemPrompt,
         prompt: `Generate a learning roadmap for: ${userInput}`,
         maxTokens: 4000,
