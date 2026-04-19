@@ -4,7 +4,7 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ![Landing Page](/ss/landing.png)
 *Modern Landing Page with AI-driven insights*
