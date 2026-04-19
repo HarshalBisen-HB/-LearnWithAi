@@ -4,16 +4,36 @@
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![Landing Page](/ss/landing.png)
-*Modern Landing Page with AI-driven insights*
+### 🏠 Landing Page
+![Landing Page](/ss/Screenshot%202026-04-19%20155957.png)
+*Next-Generation AI Career Accelerator*
 
-![Dashboard](/ss/dashboard.png)
-*Consolidated Dashboard featuring AI Tools and History*
+### 📊 Dashboard
+![Dashboard](/ss/Screenshot%202026-04-19%20154834.png)
+*Personalized Dashboard with Interview History*
 
-![Roadmap Generator](/ss/roadmap.png)
-*Interactive Learning Roadmaps powered by React Flow*
+### 🤖 AI Tools
+![AI Tools](/ss/Screenshot%202026-04-19%20154912.png)
+*Suite of AI-powered Career Agents*
+
+### 📚 Resources
+![PDF Resources](/ss/Screenshot%202026-04-19%20154933.png)
+*Curated Learning Materials and Documentation*
+
+### 💳 Billing & Plans
+![Pricing](/ss/Screenshot%202026-04-19%20155310.png)
+*Flexible Subscription Options*
+
+### 👤 User Profile
+![Profile](/ss/Screenshot%202026-04-19%20155617.png)
+*Account Management via Clerk*
+
+### 💬 Feedback
+![Feedback](/ss/Screenshot%202026-04-19%20155718.png)
+*Direct User Feedback Channel*
+
 
 ---
 
